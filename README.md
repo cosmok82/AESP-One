@@ -6,7 +6,7 @@
 </div>
 <br>
 Author: Cosimo Orlando.<br>
-Blog: http://creativityslashdesign.tk/<br>
+Blog: http://creativityslashdesign.com/<br>
 <br>
 Fully compatible ESP8266 development board<br>
 <br>
